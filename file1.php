@@ -1,6 +1,7 @@
 <?php
     $collaborateurs=array("Aliou","Baba","Yussuf","Anna","Dieudonne");
     foreach ($collaborateurs as $collaborateur) {
-        echo $collaborateur.'<br/>';
+        echo "Bonjour ".$collaborateur.'<br/>';
+        echo "Bienvenue ".$collaborateur." sur le projet de la veille<br/>";
     }
 ?>
