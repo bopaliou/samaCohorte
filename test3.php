@@ -1,5 +1,4 @@
 <php?
-<php;
 
 echo "bonjoue";
 
@@ -11,6 +10,4 @@ echo "§c=§a+§b";
 §nom=§diop;
 §pprenom=§cheikh;
 echo "afficher moi le nom complet";
-?>
-
 ?>
