@@ -44,3 +44,9 @@ $baba_dev->backendDev();
 $anna=new Collaborateur("DIONE","Anna","Parcelles Asssainies");
 $anna_dev=new Developpeur();
 $anna_dev->backendDev();
+
+//Autre collaborateur
+
+$other=new Collaborateur("OTHER","other","other");
+$other_dev=new Developpeur();
+$other_dev->backendDev();
